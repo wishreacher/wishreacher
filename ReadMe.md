@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on ASCEND & Red Forest<br>👯 I’m looking to collaborate on strategy games in UE<br>🌱 I’m currently learning replication in UE
+🔭 Currently studying software engineering at Kyiv-Mohyla academy<br>👯 Looking to collaborate on any Unreal Engine projects<br>🌱 Learning replication in UE
 
 
 ## 🌐 Socials:
