@@ -1,12 +1,15 @@
 # 💫 About Me:
-🔭 Currently studying software engineering at Kyiv-Mohyla academy<br>👯 Looking to collaborate on any Unreal Engine projects<br>🌱 Learning pathfinding algorithms
+🔭 Currently studying software engineering at Kyiv-Mohyla academy<br>👯 Looking to collaborate on any Swift projects<br>🌱 Studying iOS frameworks
 
 
 ## 🌐 Socials:
-[![Telegram](https://img.shields.io/badge/Telegram-%230088cc.svg?logo=Telegram&logoColor=white)](https://t.me/wishreacher) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rey__ow) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/klirikV) 
+[![Telegram](https://img.shields.io/badge/Telegram-%230088cc.svg?logo=Telegram&logoColor=white)](https://t.me/wishreacher)
 
 # 💻 Tech Stack:
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-F89820?style=flat) ![TASM](https://img.shields.io/badge/TASM-89CFF0?style=flat) ![Perforce](https://img.shields.io/badge/Perforce-89CFF0?style=flat&logo=Perforce) ![Unreal](https://img.shields.io/badge/Unreal%20Engine-000000?style=flat&logo=unrealengine)
+![Swift](https://img.shields.io/badge/Swift-%23F05138.svg?style=flat&logo=Swift&logoColor=white) 
+![XCode](https://img.shields.io/badge/XCode-%23147EFB.svg?style=flat&logo=Xcode&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=Python&logoColor=white) 
+![Perforce](https://img.shields.io/badge/Perforce-89CFF0?style=flat&logo=Perforce) 
 
 
 
@@ -18,9 +21,4 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/klirik) 
-
-  
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
